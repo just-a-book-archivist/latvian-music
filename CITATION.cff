@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these editions, please cite them as below."
+type: dataset
+title: "Latvian music: songs with Latvian words, transcribed from old prints"
+abstract: >-
+  Editions of printed music with Latvian words, transcribed note by note and word by
+  word from scans of the prints and checked against them: the music as LilyPond
+  sources, the words in the old orthography as printed. First: Ādams Ore, Lettische
+  Volkslieder / Latweeschu tautas dseesmas, for voice and piano (Riga [1890]).
+authors:
+  - name: "just-a-book-archivist"
+repository-code: "https://github.com/just-a-book-archivist/latvian-music"
+license: CC-BY-SA-4.0
+keywords:
+  - Latvian
+  - folk songs
+  - sheet music
+  - LilyPond
+  - old orthography
+  - Ādams Ore

@@ -66,7 +66,12 @@ chords, arpeggios, several changes of key.
   *cresc.* are text only, and the `8` under three bass notes (p. 9 m. 10) does not add the lower
   octave.
 
-## Release
+## PDF, MIDI and archives
 
 PDFs and MIDI files of all 16 songs: release
-[`ore-1890-1`](https://github.com/just-a-book-archivist/latvian-music/releases/tag/ore-1890-1).
+[`ore-1890-1`](https://github.com/just-a-book-archivist/latvian-music/releases/tag/ore-1890-1)
+(15 November 2026), and on the Internet Archive with the LilyPond files:
+<https://archive.org/details/ore-1890-latviesu-tautas-dziesmas-edition>.
+
+The repository as it stood at this release is archived on Zenodo, citable as
+[doi:10.5281/zenodo.24250271](https://doi.org/10.5281/zenodo.24250271).
